@@ -1,0 +1,263 @@
+*{ position:relative;
+  font-family:Barlow;
+}
+
+html,body{
+  width:100%;height:100%;
+  padding:0px;margin:0px;
+}
+
+.All{
+  width:800px;
+  left:5%;
+  right:5%;
+
+}
+
+.top{
+  width: 100%;
+color: black;
+padding: 1%;
+background-color: rgba(60, 60, 60, 0.2);
+left: 4%;
+
+}
+
+.top-left{
+  width:30%;
+  height:auto;
+  display:inline-block;
+  padding:2%;
+  font-size:18px;
+  text-align:center;
+  left:18%;
+  border-radius:15px;
+
+}
+
+.top-left h3{
+  color:#999999;
+
+}
+
+.job{
+  position:absolute
+  width:100%;
+  height:auto;
+  display:block;
+  text-align:center;
+  font-size:18px;
+  left:3%;
+  color:white;
+  font-weight:900;
+}
+
+.top-right{
+  width:30%;
+  height:140px;
+  display:inline-block;
+  float:right;
+  top:1%;
+  font-size:18px;
+  right:10%;
+  line-height:25px;
+
+}
+.top-right h5{
+  bottom:20%;
+  font-weight:600;
+  color:white;
+  right:10%
+}
+
+.top-right h4{
+  text-align:center;
+  width:50%;
+  background-color:rgba(255,211,6,1);
+  right:10%;
+  bottom:12%;
+  font-size:15px;
+  border-radius: 5px;
+  color:#999999;
+
+
+}
+.introduction{
+  display:inline-block;
+  margin-left:auto;
+  margin-right:auto;
+  margin-top:6%;
+}
+
+.photo{
+  width:25%;
+  top:50%;
+  left:40%;
+  border-radius:100%;
+  text-align:center;
+}
+
+.About-me{
+  width: 70%;
+    padding: 8px;
+    text-align: center;
+    margin: auto;
+    margin-top: -2%;
+    left: 3.5%;
+
+}
+.About-me p{
+ font-size:18px;
+ left:2%;
+ line-height:30px;
+}
+
+.About-me h3{
+  width:90%;
+  padding:10px;
+  text-align:center;
+  left:2%;
+
+}
+
+
+.education{
+  position:absolute;
+  width:400px;
+  left:60%;
+  display:inline-block;
+  padding-left:10px;
+
+}
+
+
+
+.education p{
+  bottom:auto;
+}
+
+.edu_title1{
+  width:80%;
+  bottom:auto;
+}
+
+
+.edu_title1 p{
+  bottom:200%;
+  font-weight:400;
+}
+
+.edu_title2{
+  bottom:auto;
+}
+
+.right-skills{
+  position:absolute;
+  width:36%;
+  display:inline-block;
+  left:14%
+}
+
+.right-skills h5{
+  padding:1px;
+  padding-left:3px;
+  font-size:15px;
+}
+
+.work{
+  top:400px;
+  display:inline-block;
+  padding:15px;
+  line-height:20px;
+  width:80%;
+  left:12%;
+}
+
+.working_title{
+  padding-left:4px;
+  margin-bottom:5px;
+  font-size:16px;
+  font-weight:600;
+}
+.content{
+  padding:2px;
+  margin:4px;
+  align:left;
+  font-size:15px;
+  line-height:25px;
+}
+
+.working_company{
+  font-size:19px;
+  font-weight:900;
+}
+
+.subtitle{
+  font-size:20px;
+}
+
+.skill{
+  font-size:16px;
+  font-weight:300;
+  top:-10px;
+}
+
+.chart{
+  position:absolute;
+  width:80%;height: 12px;
+  background-color: #ddd;
+  margin-top:-18px;
+}
+
+.bar1{
+  width:75%;height:8px;
+  background-color:#FFC300;
+  left:1px;
+  margin:1px;
+}
+.bar2{
+  width:60%;height:8px;
+  background-color:#FFC300;
+  left:1px;
+  margin:1px;
+}
+.bar3{
+  width:70%;height:8px;
+  background-color:#FFC300;
+  left:1px;
+  margin:1px;
+}
+.bar4{
+  width:30%;height:8px;
+  background-color:#FFC300;
+  left:1px;
+  margin:1px;
+}
+.bar5{
+  width:50%;height:8px;
+  background-color:#FFC300;
+  left:1px;
+  margin:1px;
+}
+.bar6{
+  width:50%;height:8px;
+  background-color:#FFC300;
+  left:1px;
+  margin:1px;
+}
+
+.year{
+  width:10%;
+  display:inline-block;
+  right:60px;
+
+}
+.year p{
+  bottom:30px;
+}
+
+.All hr{
+  height:3px;
+background-color:#FFDE74 ;
+border:none;
+}
